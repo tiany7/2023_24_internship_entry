@@ -13,7 +13,7 @@
 | 公司名称 | 招聘类型 | 投递入口 | 更新日期 | 截止日期 | 备注|
 | ------- | -------- | ------- | --------| --------| --- |
 | 腾讯    | 日常/暑期实习 | [链接](https://join.qq.com/) | 2023.2.10 | 暂无 | 
-
+| 阿里云/阿里集团| 暑期实习 | 官网， [牛客](https://www.nowcoder.com/) | 2023.2.11| 暂无 | 实习提前批已经开始，但官网目前还没有开，大家可以通过牛客网找对应的内推|
 
 # 国企实习 (最后更新于2023.2.11)
 | 公司名称 | 招聘类型 | 投递入口 | 更新日期 | 截止日期 | 备注|
@@ -23,7 +23,7 @@
 
 | 公司名称 | 招聘类型 | 投递入口 | 更新日期 | 截止日期 | 备注|
 | ------- | -------- | ------- | --------| --------| --- |
-
+|Green Tree Capital| 24届实习 | [领英入口](https://angel.co/company/greentree-capital/jobs/2422265-network-engineer-and-system-administrator-intern-remote-onsite?utm_campaign=linkedin_syndication&utm_source=linkedin) [官网(邮件投递)](https://www.greentree.group/opportunities.html) |  2023.2.10 | 暂无 | |
 
 # 证券类实习 (最后更新于2023.2.11)
 
